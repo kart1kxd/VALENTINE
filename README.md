@@ -34,17 +34,3 @@ npm run dev
 ## 📝 Usage
 
 Once the development server is running, open your browser and navigate to the provided local URL (typically `http://localhost:3000`).
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💖 Acknowledgments
-
-- Thanks to all contributors who help spread the love!
-- Special thanks to the open-source community for inspiration and tools
-
