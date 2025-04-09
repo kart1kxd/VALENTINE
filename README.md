@@ -18,7 +18,7 @@ A cute, fun little project to spread smiles — whether it's Feb 14 or any other
 1. Clone the repository:
 ```bash
 git clone https://github.com/kart1kxd/valentine.git
-cd valentine-app
+cd valentine
 ```
 
 2. Install dependencies:
