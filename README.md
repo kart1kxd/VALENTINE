@@ -17,8 +17,8 @@ A cute, fun little project to spread smiles — whether it's Feb 14 or any other
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kart1kxd/valentine-app.git
-cd valentine-app
+git clone https://github.com/kart1kxd/VALENTINE.git
+cd VALENTINE
 ```
 
 2. Install dependencies:
@@ -47,5 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors who help spread the love!
 - Special thanks to the open-source community for inspiration and tools
+
 
 
